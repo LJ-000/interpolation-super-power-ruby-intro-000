@@ -8,12 +8,12 @@ def display_rainbow (colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indi
   indigo = ["I"]
   violet = ["V"]
 
-  puts "R: #{colors[red]}"
-  puts "O: #{colors[orange]}"
-  puts "Y: #{colors[yellow]}"
-  puts "G: #{colors[green]}"
-  puts "B: #{colors[blue]}"
-  puts "I: #{colors[indigo]}"
-  puts "V: #{colors[violet]}"
+  puts "0: #{colors[red]}"
+  puts "1: #{colors[orange]}"
+  puts "2: #{colors[yellow]}"
+  puts "3: #{colors[green]}"
+  puts "4: #{colors[blue]}"
+  puts "5: #{colors[indigo]}"
+  puts "6: #{colors[violet]}"
 
 end
